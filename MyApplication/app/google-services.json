@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365242601",
+    "project_id": "lista-filmes-ac2",
+    "storage_bucket": "lista-filmes-ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365242601:android:db7622cc6d6ba78d5aa878",
+        "android_client_info": {
+          "package_name": "com.app.lista_filmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkEtxgvrbDkAF_S_xxhHwO6cn-FmNVaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Lista de Filmes</string>
+<string name="ver_sinopse">Ver Sinopse</string>
+<string name="poster_do_filme">Poster do Filme</string>
+</resources>
